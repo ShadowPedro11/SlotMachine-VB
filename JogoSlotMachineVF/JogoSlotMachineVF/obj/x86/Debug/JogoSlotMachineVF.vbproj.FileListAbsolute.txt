@@ -1,0 +1,13 @@
+C:\Users\Pedro Pereira\Desktop\a17550.PedroPereira.N23_SlotMachine\JogoSlotMachineVF\JogoSlotMachineVF\bin\Debug\JogoSlotMachineVF.exe
+C:\Users\Pedro Pereira\Desktop\a17550.PedroPereira.N23_SlotMachine\JogoSlotMachineVF\JogoSlotMachineVF\bin\Debug\JogoSlotMachineVF.pdb
+C:\Users\Pedro Pereira\Desktop\a17550.PedroPereira.N23_SlotMachine\JogoSlotMachineVF\JogoSlotMachineVF\bin\Debug\JogoSlotMachineVF.xml
+C:\Users\Pedro Pereira\Desktop\a17550.PedroPereira.N23_SlotMachine\JogoSlotMachineVF\JogoSlotMachineVF\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Pedro Pereira\Desktop\a17550.PedroPereira.N23_SlotMachine\JogoSlotMachineVF\JogoSlotMachineVF\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Pedro Pereira\Desktop\a17550.PedroPereira.N23_SlotMachine\JogoSlotMachineVF\JogoSlotMachineVF\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Pedro Pereira\Desktop\a17550.PedroPereira.N23_SlotMachine\JogoSlotMachineVF\JogoSlotMachineVF\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Pedro Pereira\Desktop\a17550.PedroPereira.N23_SlotMachine\JogoSlotMachineVF\JogoSlotMachineVF\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Pedro Pereira\Desktop\a17550.PedroPereira.N23_SlotMachine\JogoSlotMachineVF\JogoSlotMachineVF\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Pedro Pereira\Desktop\a17550.PedroPereira.N23_SlotMachine\JogoSlotMachineVF\JogoSlotMachineVF\obj\x86\Debug\JogoSlotMachineVF.vbproj.GenerateResource.Cache
+C:\Users\Pedro Pereira\Desktop\a17550.PedroPereira.N23_SlotMachine\JogoSlotMachineVF\JogoSlotMachineVF\obj\x86\Debug\JogoSlotMachineVF.exe
+C:\Users\Pedro Pereira\Desktop\a17550.PedroPereira.N23_SlotMachine\JogoSlotMachineVF\JogoSlotMachineVF\obj\x86\Debug\JogoSlotMachineVF.xml
+C:\Users\Pedro Pereira\Desktop\a17550.PedroPereira.N23_SlotMachine\JogoSlotMachineVF\JogoSlotMachineVF\obj\x86\Debug\JogoSlotMachineVF.pdb
